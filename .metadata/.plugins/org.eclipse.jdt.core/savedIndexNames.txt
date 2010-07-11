@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+E:\DropBox\My Dropbox\Personal\Android\Workspace\.metadata\.plugins\org.eclipse.jdt.core
+2600702534.index
